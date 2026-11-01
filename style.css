@@ -18,3 +18,4 @@ header>a{display:flex;align-items:center;gap:9px}header .initial{font-family:'DM
 .catch-footer{padding:24px 0 20px;background:var(--pink);border-top:1px solid var(--line)}.catch-footer .catch-game{margin:0 auto}
 
 .arrival-fields input{min-width:0;min-height:43px}.arrival-fields .color-fields>label{min-width:0}
+.album-link{padding:22px 30px;background:#fffaf3;border-top:1px solid var(--line)}.album-link a{display:flex;align-items:center;justify-content:space-between;font-size:12px}.album-link .pixel{font-size:11px}
