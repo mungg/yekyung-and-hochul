@@ -35,3 +35,5 @@ header>a{display:flex;align-items:center;gap:9px}header .initial{font-family:'DM
 .cover-card{border-radius:0;filter:drop-shadow(4px 8px 8px #765f4925);background:#f4cbd2}.cover-card:before{inset:-13px;border-radius:0;background:radial-gradient(circle at 15px 15px,#f4cbd2 14.5px,transparent 15px) 0 0/30px 30px;z-index:-1}.cover-inner{border-radius:17px;border:3px solid #c8cc83}.cover-card:hover{background:#f4cbd2}.cover-card:focus-visible{outline:2px solid #ab6f56;outline-offset:17px}
 
 .cover-card:before{background-repeat:round}
+
+.invitation-cover{padding:0;background:#eeeae6}.original-cover-card{display:block;position:relative;padding:0;border:0;background:transparent;width:min(100vw,100svh,900px);line-height:0}.original-cover-card img{display:block;width:100%;height:auto}.original-cover-hint{display:block;position:absolute;bottom:12px;left:0;right:0;text-align:center;font:12px/1.4 'DM Sans';color:#5d534d}.original-cover-card:focus-visible{outline:3px solid #db6037;outline-offset:-4px}
