@@ -26,3 +26,5 @@ header>a{display:flex;align-items:center;gap:9px}header .initial{font-family:'DM
 .invitation-note>img{aspect-ratio:830/938;height:auto;object-fit:cover;object-position:center bottom;width:100%;height:auto}
 
 .invitation-note>img{height:auto;max-height:none;aspect-ratio:830/938;object-fit:cover}
+/* Clear section hierarchy; keep pixel character in artwork, not tiny labels. */
+.section-label .pixel,.inline-album>.section-label .pixel{font-family:'DM Sans',sans-serif;font-size:20px;font-weight:600;line-height:1.35;letter-spacing:0;text-transform:none}.day-title h2{font-size:29px;line-height:1.2}.day-title h2 span{display:block;font-family:'DM Sans',sans-serif;font-size:16px;font-weight:500;line-height:1.4;margin:7px 0 0;letter-spacing:0}.day-title{align-items:flex-start}.badge{font-family:'DM Sans',sans-serif;font-size:13px}.catch-caption{font-family:'DM Sans',sans-serif;font-size:13px}.menu-number{font-family:'DM Sans',sans-serif;font-size:13px}@media(max-width:380px){.day-title h2{font-size:27px}.day-title h2 span{font-size:16px}}
