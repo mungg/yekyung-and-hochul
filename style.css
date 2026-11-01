@@ -33,3 +33,5 @@ header>a{display:flex;align-items:center;gap:9px}header .initial{font-family:'DM
 
 /* Scallops remain visibly rounded on all four edges. */
 .cover-card{border-radius:0;filter:drop-shadow(4px 8px 8px #765f4925);background:#f4cbd2}.cover-card:before{inset:-13px;border-radius:0;background:radial-gradient(circle at 15px 15px,#f4cbd2 14.5px,transparent 15px) 0 0/30px 30px;z-index:-1}.cover-inner{border-radius:17px;border:3px solid #c8cc83}.cover-card:hover{background:#f4cbd2}.cover-card:focus-visible{outline:2px solid #ab6f56;outline-offset:17px}
+
+.cover-card:before{background-repeat:round}
