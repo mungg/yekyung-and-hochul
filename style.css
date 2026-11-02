@@ -38,7 +38,7 @@ header>a{display:flex;align-items:center;gap:9px}header .initial{font-family:'DM
 
 .invitation-cover{padding:0;background:#eeeae6}.original-cover-card{display:block;position:relative;padding:0;border:0;background:transparent;width:min(100vw,100svh,900px);line-height:0}.original-cover-card img{display:block;width:100%;height:auto}.original-cover-hint{display:block;position:absolute;bottom:12px;left:0;right:0;text-align:center;font:12px/1.4 'DM Sans';color:#5d534d}.original-cover-card:focus-visible{outline:3px solid #db6037;outline-offset:-4px}
 
-.invitation-cover{padding:20px;background:#fff8f4}.original-cover-card{width:min(90vw,60svh,470px)}.card-cutout{display:block;width:100%;height:auto}.original-cover-hint{position:static;margin-top:10px;font-size:13px}
+.invitation-cover{padding:20px;background:#fff8f4}.original-cover-card{width:min(90vw,60svh,470px)}.card-cutout{display:block;width:100%;height:auto}.original-cover-hint{position:static;margin-top:16px;font-size:20px;font-weight:500;line-height:1.4;color:#805363}
 /* Language switch stays compact and uses the invitation's body font. */
 header nav button{font:inherit;font-size:13px;border:0;background:transparent;color:inherit;padding:8px 6px;cursor:pointer;opacity:.6}header nav button[aria-pressed="true"]{opacity:1;text-decoration:underline;text-underline-offset:5px}html[lang="ko"] .pixel{font-family:"DM Sans",sans-serif;letter-spacing:0}html[lang="ko"] .schedule dt{font-size:16px}html[lang="ko"] .invitation-copy{word-break:keep-all}
 
