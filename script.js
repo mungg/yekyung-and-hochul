@@ -1,7 +1,6 @@
 document.querySelector('#copy').addEventListener('click',async()=>{try{await navigator.clipboard.writeText('92-1001 Olani Street, Kapolei, HI 96707');const s=document.querySelector('#status');s.textContent='Address copied';s.style.display='block';setTimeout(()=>s.style.display='none',2200)}catch{window.prompt('Copy venue address:','92-1001 Olani Street, Kapolei, HI 96707')}});
 document.querySelector('#beach').addEventListener('click',()=>{for(let n=0;n<5;n++){const heart=document.createElement('i');heart.textContent='♥';heart.style.setProperty('--x',(n-2)*25+'px');heart.style.animationDelay=n*.07+'s';document.querySelector('#hearts').append(heart);setTimeout(()=>heart.remove(),1800)}});
 
-const catchGame=document.querySelector('#catch-game');if(catchGame)catchGame.addEventListener('click',()=>{if(catchGame.classList.contains('playing'))return;catchGame.classList.add('playing');setTimeout(()=>catchGame.classList.remove('playing'),5100)});
 
 const arrivalDate=document.querySelector('#arrival-date'),departureDate=document.querySelector('#departure-date');function validateTravelDates(){departureDate.min=arrivalDate.value;departureDate.setCustomValidity(arrivalDate.value&&departureDate.value&&departureDate.value<arrivalDate.value?'Please choose a departure date on or after your arrival.':'')}arrivalDate.addEventListener('change',validateTravelDates);departureDate.addEventListener('change',validateTravelDates);
 
