@@ -9,7 +9,7 @@ const translations = [
 ['.schedule div:nth-child(2) dt','오후 4:30'],['.schedule div:nth-child(2) dd','예식'],
 ['.schedule div:nth-child(3) dt','오후 5:30'],['.schedule div:nth-child(3) dd','저녁 식사'],
 ['.ocean-day h3','보트 & 스노클링'],['.ocean-day>p','시간과 모이는 장소는 추후 안내드립니다'],
-['.timezone','모든 시간은 하와이 현지 시간입니다'],['#wear h2','옷차림'],['#wear p','하와이에서 입고 싶은 옷을 자유롭게 입어주세요'],
+['#wear h2','옷차림'],['#wear p','하와이에서 입고 싶은 옷을 자유롭게 입어주세요'],
 ['#travel .section-label span','오시는 길'],['#directions','길찾기 ↗'],['#copy','주소 복사'],
 ['#guest-details .section-label span','하객 안내'],['label[for="guest-name"]','성함'],
 ['#guest-details fieldset:first-of-type legend','메인 요리를 선택해주세요'],['#guest-details fieldset:first-of-type .field-hint','한 분당 하나씩 선택해주세요'],
