@@ -1,5 +1,6 @@
 // Keep form field names and submitted menu values stable in both languages.
 const translations = [
+['.full-names','황호철 · 김예경'],
 ['.wedding-date','2026년 12월 16일'],['.ceremony-time','오후 4시'],
 ['.invitation-copy>p','소중한 분들을<br>저희 결혼식에 초대합니다'],
 ['.invitation-copy blockquote','“서로 사랑하라<br>내가 너희를 사랑한 것 같이 너희도 서로 사랑하라”<cite>— 요한복음 13장 34절</cite>'],
