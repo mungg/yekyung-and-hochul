@@ -43,3 +43,5 @@ header>a{display:flex;align-items:center;gap:9px}header .initial{font-family:'DM
 header nav button{font:inherit;font-size:13px;border:0;background:transparent;color:inherit;padding:8px 6px;cursor:pointer;opacity:.6}header nav button[aria-pressed="true"]{opacity:1;text-decoration:underline;text-underline-offset:5px}html[lang="ko"] .pixel{font-family:"DM Sans",sans-serif;letter-spacing:0}html[lang="ko"] .schedule dt{font-size:16px}html[lang="ko"] .invitation-copy{word-break:keep-all}
 
 html[lang="en"] .invitation-copy>p{white-space:nowrap;font-size:clamp(12px,3.4vw,16px)}
+
+.invitation-copy blockquote{font-family:'Allura',cursive;font-size:clamp(25px,6.5vw,30px);font-style:normal;line-height:1.35;color:#75616b;max-width:440px;margin:30px auto 12px;text-wrap:pretty}.invitation-copy cite{font-family:'DM Sans',sans-serif;font-size:12px;line-height:1.6;letter-spacing:.03em;margin-top:16px;color:#746773}html[lang="ko"] .invitation-copy blockquote{font-family:'Noto Sans KR',sans-serif;font-size:16px;line-height:1.9;word-break:keep-all}html[lang="ko"] .invitation-copy cite{font-family:'Noto Sans KR',sans-serif;font-size:11px}

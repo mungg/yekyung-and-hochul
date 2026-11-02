@@ -2,7 +2,7 @@
 const translations = [
 ['.wedding-date','2026년 12월 16일'],['.ceremony-time','오후 4시'],
 ['.invitation-copy>p','소중한 분들을<br>저희 결혼식에 초대합니다'],
-['.invitation-copy blockquote','서로 사랑하라<br>내가 너희를 사랑한 것 같이 너희도 서로 사랑하라<cite>요한복음 13장 34절</cite>'],
+['.invitation-copy blockquote','“서로 사랑하라<br>내가 너희를 사랑한 것 같이 너희도 서로 사랑하라”<cite>— 요한복음 13장 34절</cite>'],
 ['#day .section-label span','일정'],['#day article:first-of-type h2','12월 16일<span class="pixel">결혼식</span>'],
 ['#day article:nth-of-type(2) h2','12월 17일<span class="pixel">친구들과 함께</span>'],
 ['.schedule div:nth-child(1) dt','오후 4:00–4:30'],['.schedule div:nth-child(1) dd','웰컴 칵테일 & 인사'],
