@@ -36,4 +36,4 @@ function setLanguage(lang){
  validateTravelDates();
 }
 document.querySelectorAll('[data-language]').forEach(b=>b.addEventListener('click',()=>setLanguage(b.dataset.language)));
-setLanguage('en');
+setLanguage('ko');
