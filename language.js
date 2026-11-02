@@ -20,7 +20,7 @@ const translations = [
 ['label[for="allergies"]','알레르기나 식단 제한이 있나요?'],
 ['.arrival-fields legend','언제 도착해서 언제까지 머무르시나요?'],['label[for="arrival-date"]>span','도착 날짜'],['label[for="departure-date"]>span','출발 날짜'],['label[for="guest-stay"]','어디에 머무르시나요?'],
 ['#guest-details fieldset:last-of-type legend','좋아하는 색 두 가지'],['#guest-details fieldset:last-of-type label:first-child>span','첫 번째 색'],['#guest-details fieldset:last-of-type label:nth-child(2)>span','두 번째 색'],
-['.submit-details','응답 보내기 ↗'],['#album .section-label span','저희 앨범'],['.original-cover-hint','눌러서 열기']
+['.submit-details','응답 보내기 ↗'],['#album .section-label span','앨범'],['.original-cover-hint','눌러서 열기']
 ];
 const translatedNodes=translations.flatMap(([selector,ko])=>Array.from(document.querySelectorAll(selector),el=>({el,en:el.innerHTML,ko})));
 const placeholders=[['#guest-name','성함을 입력해주세요'],['#allergies','알레르기나 식단 제한을 적어주세요. 없으면 없음으로 적어주세요.'],['#guest-stay','호텔 또는 지역 — 미정이면 미정'],['[name="Favorite color 1"]','예: 연한 파랑'],['[name="Favorite color 2"]','예: 연한 노랑']].map(([selector,ko])=>{const el=document.querySelector(selector);return {el,en:el.placeholder,ko}});
