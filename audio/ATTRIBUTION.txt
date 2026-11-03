@@ -21,3 +21,10 @@ Source: Library of Congress National Jukebox https://www.loc.gov/item/jukebox-64
 Downloaded from public-domain mirror: https://archive.org/details/loc-jukebox-649401-dance-of-the-blessed-spirits-orfeo-danza-de-los-espiritus
 Public domain recording. Digitized by Library of Congress.
 Edits: opening 30 seconds excerpted; high/low-pass filtering and noise reduction; 0.5s fade-in and 3s fade-out; MP3 encoding.
+
+Grieg — Butterfly, Lyric Pieces Op. 43 No. 1
+File: grieg-butterfly.mp3 (original, unmodified)
+Recorded, produced and published by Gregor Quendel, CLASSICALS.DE (2025).
+Arrangement based on MIDI notes by Bernd Krueger (www.piano-midi.de).
+Source: https://www.classicals.de/grieg-lyric
+License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
