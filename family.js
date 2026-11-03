@@ -1,0 +1,1 @@
+document.querySelector('#copy-address').addEventListener('click',async()=>{const address='92-1001 Olani Street, Kapolei, Hawaii 96707';try{await navigator.clipboard.writeText(address);document.querySelector('#copy-status').textContent='주소를 복사했습니다'}catch{window.prompt('주소를 복사해주세요',address)}});
