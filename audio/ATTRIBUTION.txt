@@ -14,3 +14,10 @@ Recording: Kevin MacLeod (incompetech.com)
 License: CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
 Source: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100301
 Recording unmodified.
+
+Dance of the Blessed Spirits, Orfeo — Christoph Willibald Gluck
+Performer: Georges Barrère. Recorded 1913-11-13. Columbia matrix 39096/1.
+Source: Library of Congress National Jukebox https://www.loc.gov/item/jukebox-649401/
+Downloaded from public-domain mirror: https://archive.org/details/loc-jukebox-649401-dance-of-the-blessed-spirits-orfeo-danza-de-los-espiritus
+Public domain recording. Digitized by Library of Congress.
+Edits: opening 30 seconds excerpted; high/low-pass filtering and noise reduction; 0.5s fade-in and 3s fade-out; MP3 encoding.
